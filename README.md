@@ -7,3 +7,8 @@ A Loggi é uma empresa que usa a tecnologia para inovar os envios de pacotes par
 Nesse Projeto Análise Exploratória de Dados, foi feito a exploração dados de logística, para entregar de pedidos como local de início e destino do produto, com o intuito de conhecer os hubs distribuídos no Distrito Federal (DF), bem como a proporção e os desafios que a Loggi enfrenta diante de todo esse cenário logístico de entregas.
 
 >Dados: coletados da empressa Loggi.
+>Processamento: Notebook Python via Google Colab
+>Deploy: .
+>Ferramentas: Python (Google Colab) e Google Data Studio.
+
+
