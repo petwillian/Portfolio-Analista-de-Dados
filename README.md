@@ -10,7 +10,7 @@ Nesse Projeto Análise Exploratória de Dados, foi feito a exploração dados de
 
 >Processamento: Notebook Python via Google Colab
 
->Deploy:[Github]([https://](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Projeto.ipynb)).
+>Deploy:[Github](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Projeto.ipynb).
 
 >Ferramentas: Python (Google Colab) e Google Data Studio.
 
