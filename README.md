@@ -16,5 +16,17 @@ Nesse Projeto Análise Exploratória de Dados, foi feito a exploração dados de
 
 ![image](https://github.com/user-attachments/assets/be9ab01b-130a-4d7a-a02a-f8072215ee30)
 
+**Insights**
+
+As entregas parecem estar corretamente alocadas em seus respectivos Hubs. A distância média percorrida para a realização de uma entrega considerando os três hubs é de 7.1 km, e a distância mediana é de 5.53km.
+
+No entanto, como os Hubs das regiões 0 e 2 fazem entregas em locais mais distantes do centro, isso pode gerar um tempo e preço de entrega maiores.
+
+![Quantidade de entregas por cidade](https://github.com/user-attachments/assets/ebd510f5-841f-4378-85b9-de8d04980f85)
+
+**Insights**
+
+Mais uma vez vemos que há uma concentração de entregas em Brasília, onde está localizado o Hub df-1. Isso justifica, de certa forma, uma concentração maior dos veículos de entrega nesse Hub. Entretanto, há também uma dispersão de entregas em outras regiões. De novo, se olharmos o mapa, vemos que o Hub de Sobradinho possui entregas distantes do centro de distribuição, ao mesmo tempo que possui menos veículos de entrega quando comparado com outros Hubs.
+
 
 
