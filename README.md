@@ -14,7 +14,7 @@ Nesse Projeto Análise Exploratória de Dados, foi feito a exploração dados de
 
 >**Ferramentas**: Python (Google Colab) e Geopandas .
 
-![image](https://github.com/user-attachments/assets/be9ab01b-130a-4d7a-a02a-f8072215ee30)
+![image](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Entregas%20no%20Distrito%20Federal.png))
 
 **Insights**
 
@@ -47,6 +47,4 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 >**Ferramentas**: Python (Google Colab) e lookerstudio .
 
 ![Covid_19](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Dashboard%20de%20dados/Covid_19.jpg)
-
-![Covid_19](https://github.com/user-attachments/assets/ec7db153-dcde-4c0c-904d-660e37c7fb93)
 
