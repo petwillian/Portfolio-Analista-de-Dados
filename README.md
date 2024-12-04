@@ -28,5 +28,20 @@ No entanto, como os Hubs das regiões 0 e 2 fazem entregas em locais mais distan
 
 Mais uma vez vemos que há uma concentração de entregas em Brasília, onde está localizado o Hub df-1. Isso justifica, de certa forma, uma concentração maior dos veículos de entrega nesse Hub. Entretanto, há também uma dispersão de entregas em outras regiões. De novo, se olharmos o mapa, vemos que o Hub de Sobradinho possui entregas distantes do centro de distribuição, ao mesmo tempo que possui menos veículos de entrega quando comparado com outros Hubs.
 
+# Dashboard de dados
 
+Dashboard O produto final desta análise se encontre em um dashboard do Google Data Studio. O dashboard de dados contem os seguintes elementos:
 
+Key performance indicator (KPIs):
+
+Casos e mortes nas 24 horas; Média móvel (7 dias) de casos e mortes; Tendência de casos e mortes; Proporção de vacinados com 1ª, 2ª e 3º dose. Exploratory Data Analysis (EDA) interativa:
+
+Distribuição do números de casos e mortes ao longo do tempo; Distribuição da média móvel (7 dias) do números de casos e mortes ao longo do tempo; Distribuição geográfica dos casos por estado por dia.
+
+>**Dados**: coletados da empressa Loggi.
+
+>**Processamento**: Notebook Python via Google Colab
+
+>**Deploy**: [lookerstudio](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)).
+
+>**Ferramentas**: Python (Google Colab) e Geopandas .
