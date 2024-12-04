@@ -46,7 +46,7 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 
 >**Ferramentas**: Python (Google Colab) e lookerstudio .
 
-https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Dashboard%20de%20dados/Covid_19.jpg
+[Covid_19](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Dashboard%20de%20dados/Covid_19.jpg)
 
 ![Covid_19](https://github.com/user-attachments/assets/ec7db153-dcde-4c0c-904d-660e37c7fb93)
 
