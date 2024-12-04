@@ -48,3 +48,15 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 
 ![Covid_19](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Dashboard%20de%20dados/Covid_19.jpg)
 
+# Exploração e análise de dados de crédito com SQL
+
+Essas foram algumas das análises extraídas do conjunto de dados, fornecendo insights sobre o perfil dos clientes e seus comportamentos de transação. 
+
+>**Dados**: coletados do Github.
+
+>**Processamento**: Notebook Python via Google Colab
+
+>**Deploy**: [Github](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)
+
+>**Ferramentas**: AWS S3, AWS Athena, Python (Google Colab).
+
