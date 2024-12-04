@@ -45,3 +45,6 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 >**Deploy**: [lookerstudio](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)).
 
 >**Ferramentas**: Python (Google Colab) e lookerstudio .
+
+![Covid_19](https://github.com/user-attachments/assets/ec7db153-dcde-4c0c-904d-660e37c7fb93)
+
