@@ -63,3 +63,19 @@ Essas foram algumas das análises extraídas do conjunto de dados, fornecendo in
 
 ![sql-credito](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20SQL/sql-credito.png)
 
+# Projeto Pipeline de dados do Telegram
+
+O objetivo deste projecto foi implementar um pipeline dades para analisar mensagens em um grupo do telegram. O pipeline foi implementado utilizado serviços da Amzon Web Services (AWS).
+
+>**Dados**: coletados do [Credito.csv](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20SQL/credito.csv)
+
+>**Processamento**: Notebook Python via Google Colab
+
+>**Deploy**: [Github](https://github.com/petwillian/Portfolio-Analista-de-Dados/tree/main/Projeto%20SQL)
+
+>**Ferramentas**: AWS S3, AWS Athena, Python (Google Colab).
+
+![Profissao Analista de dados M42 Material de apoio arch (1)](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20Pipeline%20de%20dados%20do%20Telegram/%20Arch.png)
+
+
+
