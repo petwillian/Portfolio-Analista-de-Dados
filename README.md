@@ -42,7 +42,7 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 
 >**Processamento**: Notebook Python via Google Colab
 
->**Deploy**: [lookerstudio](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)).
+>**Deploy**: [lookerstudio](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)
 
 >**Ferramentas**: Python (Google Colab) e lookerstudio .
 
