@@ -48,7 +48,10 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 
 >**Deploy**: [lookerstudio](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)
 
->**Ferramentas**: Python (Google Colab) e lookerstudio .
+>**Ferramentas**: ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+                  ![lookerstudio](https://img.shields.io/badge/looker-%20%234285F4?style=flat&logo=looker&logoColor=%23F5FFFA)
+                  ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00)
+
 
 ![Covid_19](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Dashboard%20de%20dados/Covid_19.jpg)
 
@@ -62,7 +65,10 @@ Essas foram algumas das análises extraídas do conjunto de dados, fornecendo in
 
 >**Deploy**: [Github](https://github.com/petwillian/Portfolio-Analista-de-Dados/tree/main/Projeto%20SQL)
 
->**Ferramentas**: AWS S3, AWS Athena, Python (Google Colab).
+>**Ferramentas**: ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+                  ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
+                  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite)
+                  ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00)
 
 
 ![sql-credito](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20SQL/sql-credito.png)
@@ -77,7 +83,12 @@ O objetivo deste projecto foi implementar um pipeline dades para analisar mensag
 
 >**Deploy**: [Github](https://github.com/petwillian/Portfolio-Analista-de-Dados/tree/main/Projeto%20Pipeline%20de%20dados%20do%20Telegram)
 
->**Ferramentas**: Telegram, AWS S3, AWS Athena, AWS IAM, AWS Lambda, AWS API Gateway, Python (Google Colab).
+>**Ferramentas**: ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+                  ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
+                  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite)
+                  ![Telegram](https://img.shields.io/badge/-Telegram_Bots-blue?style=flat-square&logo=telegram)
+                  ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00)
+
 
 ![Profissao Analista de dados M42 Material de apoio arch (1)](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20Pipeline%20de%20dados%20do%20Telegram/%20Arch.png)
 
