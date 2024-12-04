@@ -38,10 +38,10 @@ Casos e mortes nas 24 horas; Média móvel (7 dias) de casos e mortes; Tendênci
 
 Distribuição do números de casos e mortes ao longo do tempo; Distribuição da média móvel (7 dias) do números de casos e mortes ao longo do tempo; Distribuição geográfica dos casos por estado por dia.
 
->**Dados**: coletados da empressa Loggi.
+>**Dados**: coletados do Github.
 
 >**Processamento**: Notebook Python via Google Colab
 
 >**Deploy**: [lookerstudio](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)).
 
->**Ferramentas**: Python (Google Colab) e Geopandas .
+>**Ferramentas**: Python (Google Colab) e lookerstudio .
