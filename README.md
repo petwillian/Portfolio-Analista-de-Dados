@@ -14,6 +14,8 @@ Nesse Projeto Análise Exploratória de Dados, foi feito a exploração dados de
 
 >**Ferramentas**: ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
                   ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00)
+                  ![Geopandas](https://img.shields.io/badge/Geopandas-%20%23139C5A?style=flat&logo=geopandas&logoColor=%23F5FFFA)
+
 
 
 ![image](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Entregas%20no%20Distrito%20Federal.png)
