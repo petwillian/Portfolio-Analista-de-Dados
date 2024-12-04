@@ -73,7 +73,7 @@ O objetivo deste projecto foi implementar um pipeline dades para analisar mensag
 
 >**Deploy**: [Github](https://github.com/petwillian/Portfolio-Analista-de-Dados/tree/main/Projeto%20Pipeline%20de%20dados%20do%20Telegram)
 
->**Ferramentas**: AWS S3, AWS Athena, AWS IAM, AWS Lambda, AWS API Gateway, Python (Google Colab).
+>**Ferramentas**: Telegram, AWS S3, AWS Athena, AWS IAM, AWS Lambda, AWS API Gateway, Python (Google Colab).
 
 ![Profissao Analista de dados M42 Material de apoio arch (1)](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20Pipeline%20de%20dados%20do%20Telegram/%20Arch.png)
 
