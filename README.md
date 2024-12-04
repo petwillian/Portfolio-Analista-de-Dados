@@ -52,11 +52,14 @@ Distribuição do números de casos e mortes ao longo do tempo; Distribuição d
 
 Essas foram algumas das análises extraídas do conjunto de dados, fornecendo insights sobre o perfil dos clientes e seus comportamentos de transação. 
 
->**Dados**: coletados do Github.
+>**Dados**: coletados do [Credito.csv](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20SQL/credito.csv)
 
 >**Processamento**: Notebook Python via Google Colab
 
->**Deploy**: [Github](https://lookerstudio.google.com/reporting/0b29e22d-8d1c-4076-bdee-c08921f08c18/page/90rHE)
+>**Deploy**: [Github](https://github.com/petwillian/Portfolio-Analista-de-Dados/tree/main/Projeto%20SQL)
 
 >**Ferramentas**: AWS S3, AWS Athena, Python (Google Colab).
+
+
+![sql-credito](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20SQL/sql-credito.png)
 
