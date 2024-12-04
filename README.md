@@ -14,7 +14,7 @@ Nesse Projeto Análise Exploratória de Dados, foi feito a exploração dados de
 
 >**Ferramentas**: Python (Google Colab) e Geopandas .
 
-![image](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Entregas%20no%20Distrito%20Federal.png))
+![image](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Entregas%20no%20Distrito%20Federal.png)
 
 **Insights**
 
@@ -22,7 +22,7 @@ As entregas parecem estar corretamente alocadas em seus respectivos Hubs. A dist
 
 No entanto, como os Hubs das regiões 0 e 2 fazem entregas em locais mais distantes do centro, isso pode gerar um tempo e preço de entrega maiores.
 
-![Quantidade de entregas por cidade](https://github.com/user-attachments/assets/ebd510f5-841f-4378-85b9-de8d04980f85)
+![Quantidade de entregas por cidade](https://github.com/petwillian/Portfolio-Analista-de-Dados/blob/main/Projeto%20An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Python/Quantidade%20de%20entregas%20por%20cidade.png)
 
 **Insights**
 
